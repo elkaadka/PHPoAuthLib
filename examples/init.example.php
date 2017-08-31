@@ -131,6 +131,10 @@ $servicesCredentials = array(
         'key'       => '',
         'secret'    => '',
     ),
+    'nokiaHealth' => array(
+        'key'       => '',
+        'secret'    => '',
+    ),
     'parrotFlowerPower' => array(
         'key'       => '',
         'secret'    => '',

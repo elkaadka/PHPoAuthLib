@@ -85,6 +85,7 @@ Included service implementations
     - Mondo
     - Nest
     - Netatmo
+    - Nokia Health
     - Parrot Flower Power
     - PayPal
     - Pinterest
